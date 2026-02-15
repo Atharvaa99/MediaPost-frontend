@@ -30,7 +30,7 @@ A modern, responsive social media web application built with React and Vite. Upl
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/your-frontend-repo.git
+   git clone https://github.com/Atharvaa99/MediaPost-frontend.git
    cd your-frontend-repo
    ```
 
@@ -48,7 +48,7 @@ A modern, responsive social media web application built with React and Vite. Upl
    
    For production, update with your deployed backend URL:
    ```env
-   VITE_API_URL=https://your-backend.onrender.com
+   VITE_API_URL=https://mediapost-backend.onrender.com
    ```
 
 4. **Start the development server**
@@ -136,7 +136,7 @@ API URL is configured via the `VITE_API_URL` environment variable.
 
 This application is deployed on **Vercel**.
 
-**Live Demo:** [https://media-post-frontend.vercel.app]
+**Live Demo:** [https://media-post-frontend.vercel.app](https://media-post-frontend.vercel.app)
 
 ### Deployment Steps:
 
