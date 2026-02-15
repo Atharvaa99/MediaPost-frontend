@@ -136,7 +136,7 @@ API URL is configured via the `VITE_API_URL` environment variable.
 
 This application is deployed on **Vercel**.
 
-**Live Demo:** `https://your-app.vercel.app`
+**Live Demo:** `https://media-post-frontend.vercel.app`
 
 ### Deployment Steps:
 
@@ -168,7 +168,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🔗 Related Projects
 
-- **Backend Repository**: [Link to backend repo](https://github.com/yourusername/backend-repo)
+- **Backend Repository**: [Link to backend repo](https://github.com/Atharvaa99/MediaPost-backend.git)
 
 ---
 
