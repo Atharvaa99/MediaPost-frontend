@@ -24,7 +24,7 @@ A modern, responsive social media web application built with React and Vite. Upl
 
 - Node.js (v14 or higher)
 - npm or yarn
-- Backend API running (see [backend repository](https://github.com/yourusername/backend-repo))
+- Backend API running (see [backend repository](https://github.com/Atharvaa99/MediaPost-backend.git))
 
 ## ⚙️ Installation
 
