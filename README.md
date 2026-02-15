@@ -136,7 +136,7 @@ API URL is configured via the `VITE_API_URL` environment variable.
 
 This application is deployed on **Vercel**.
 
-**Live Demo:** `https://media-post-frontend.vercel.app`
+**Live Demo:** [https://media-post-frontend.vercel.app]
 
 ### Deployment Steps:
 
