@@ -31,7 +31,7 @@ A modern, responsive social media web application built with React and Vite. Upl
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Atharvaa99/MediaPost-frontend.git
-   cd your-frontend-repo
+   cd MediaPost-frontend
    ```
 
 2. **Install dependencies**
