@@ -1,0 +1,96 @@
+.feed-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+    min-height: 100vh;
+    width: 100%;
+    background-color: #f0f2f5;
+    padding: 40px 20px;
+}
+
+.post-card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 500px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.post-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.post-card img {
+    width: 100%;
+    height: auto;
+    max-height: 500px;
+    object-fit: cover;
+    display: block;
+}
+
+.post-card p {
+    padding: 15px 20px;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    margin: 0;
+    word-wrap: break-word;
+}
+.caption-delete-section{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.caption-delete-section button{
+    background: linear-gradient(145deg, #ff5260, #f57119);
+    border: 1px solid;
+    padding: 12px 15px;
+    color: antiquewhite;
+    border-radius: 8px;
+    letter-spacing: 1px;
+}
+
+.caption-delete-section button:hover{
+    transform: translateY(-2px);
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+.caption-delete-section button:active {
+    transform: translateY(0); 
+}
+
+.back-to-create-page {
+    width: 100%;
+    padding-right: 20px ;
+    padding-top: 10px;
+    background-color: #f0f2f5;
+    display: flex;
+    justify-content: flex-end; 
+}
+
+.back-to-create-page button {
+    background-color: white;
+    color: #555;
+    border: 1px solid #ddd;
+    padding: 8px 16px;
+    border-radius: 8px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.back-to-create-page button:hover {
+    background-color: #f8f9fa;
+    border-color: #ccc;
+    color: #000;
+    transform: translateX(-3px); 
+}
